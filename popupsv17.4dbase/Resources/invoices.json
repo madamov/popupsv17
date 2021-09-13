@@ -1,0 +1,72 @@
+[
+	{
+		"ID": "EEA781E795154470B42CE883C685137C",
+		"CustomerID": "19339FE5DC8A4A069A89444B60EEAB0F",
+		"InvoiceDate": "2021-01-23",
+		"Invoicenumber": "0001/2021",
+		"Amount": 1234.56
+	},
+	{
+		"ID": "9DF7666A318E4BED97645DF484B7D427",
+		"CustomerID": "19339FE5DC8A4A069A89444B60EEAB0F",
+		"InvoiceDate": "2021-03-22",
+		"Invoicenumber": "0004/2021",
+		"Amount": 45.33
+	},
+	{
+		"ID": "2A7F6F2CC8BD45E5AEF21B0D79A8622D",
+		"CustomerID": "19339FE5DC8A4A069A89444B60EEAB0F",
+		"InvoiceDate": "2021-12-12",
+		"Invoicenumber": "0023/2021",
+		"Amount": 888.22
+	},
+	{
+		"ID": "EBBFE6049110406980547094545BFE08",
+		"CustomerID": "AF80CAC83AA24514871E60305D48C846",
+		"InvoiceDate": "2021-02-13",
+		"Invoicenumber": "0002/2021",
+		"Amount": 134.56
+	},
+	{
+		"ID": "1160C37F0AE1467EB6EA773C27B11CAD",
+		"CustomerID": "AF80CAC83AA24514871E60305D48C846",
+		"InvoiceDate": "2021-03-02",
+		"Invoicenumber": "0003/2021",
+		"Amount": 112.33
+	},
+	{
+		"ID": "5F7F782F37DF451290F0EB4F4B85683C",
+		"CustomerID": "AF80CAC83AA24514871E60305D48C846",
+		"InvoiceDate": "2021-04-14",
+		"Invoicenumber": "0005/2021",
+		"Amount": 555.55
+	},
+	{
+		"ID": "29B93BCA898A43F7A3D8499853724913",
+		"CustomerID": "AF80CAC83AA24514871E60305D48C846",
+		"InvoiceDate": "2021-12-24",
+		"Invoicenumber": "0024/2021",
+		"Amount": 456.22
+	},
+	{
+		"ID": "17811B134EEE492898585F8B99C92C53",
+		"CustomerID": "5C119C5D3E974FCDB07341178BD4C865",
+		"InvoiceDate": "2021-04-24",
+		"Invoicenumber": "0006/2021",
+		"Amount": 989.99
+	},
+	{
+		"ID": "A7335C8C5E2245F89CDF8149267E8B64",
+		"CustomerID": "5C119C5D3E974FCDB07341178BD4C865",
+		"InvoiceDate": "2021-05-12",
+		"Invoicenumber": "0007/2021",
+		"Amount": 789.44
+	},
+	{
+		"ID": "12B67603DB834E679D509B703C1CA2DD",
+		"CustomerID": "2D83EC45DA834EE1BF8821173ABD2176",
+		"InvoiceDate": "2021-05-25",
+		"Invoicenumber": "0008/2021",
+		"Amount": 9999.99
+	}
+]
